@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PTI_Invoice", "PTI_Invoice.csproj", "{CA777A17-C858-49C2-813A-42DB64AD4379}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA777A17-C858-49C2-813A-42DB64AD4379}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA777A17-C858-49C2-813A-42DB64AD4379}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA777A17-C858-49C2-813A-42DB64AD4379}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA777A17-C858-49C2-813A-42DB64AD4379}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
